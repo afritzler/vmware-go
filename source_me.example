@@ -1,0 +1,4 @@
+export GOVMOMI_URL=""
+export GOVMOMI_USERNAME=""
+export GOVMOMI_PASSWORD=""
+export GOVMOMI_INSECURE=""

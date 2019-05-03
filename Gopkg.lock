@@ -2,7 +2,7 @@
 
 
 [[projects]]
-  digest = "1:2a6000d42df71963569cb87c2811e0749b5cda12a781655e30fb6abffd38e6bd"
+  digest = "1:c2ad5bb23719eb948483e7dd508938f3414fde455b3a06c549c50442eabd6ad3"
   name = "github.com/vmware/govmomi"
   packages = [
     ".",
@@ -23,8 +23,8 @@
     "vim25/xml",
   ]
   pruneopts = "UT"
-  revision = "3617f28d167d448f93f282a867870f109516d2a5"
-  version = "v0.19.0"
+  revision = "bdf05b6cab86b1e9f40ee80a4d2cb07a0c25ef78"
+  version = "v0.20.0"
 
 [solve-meta]
   analyzer-name = "dep"
